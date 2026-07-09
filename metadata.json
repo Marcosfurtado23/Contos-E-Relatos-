@@ -1,0 +1,6 @@
+{
+  "name": "Contos E Relatos",
+  "description": "Uma plataforma interativa para ler, escrever e publicar histórias, contos e relatos de terror, romance, ficção científica e muito mais, com design moderno e envolvente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
